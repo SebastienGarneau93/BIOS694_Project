@@ -1,1 +1,13 @@
+Here's a list of all libraries and packages used (and their version)
 
+Python : 3.10
+Tensorflow : 2.18.0
+TensorFlow_Probability : 0.25.0
+Numpy : 2.0.2
+Scipy : 1.14.1
+Seaborn : 0.13.2
+Matplotlib : 3.10.0
+Pandas : 2.2.3
+
+R : 4.4.1
+Nimble : 1.2.1
